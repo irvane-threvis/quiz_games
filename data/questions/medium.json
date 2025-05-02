@@ -1,0 +1,218 @@
+{
+    "history": [
+      {
+      "type": "text",
+      "question": "Quel est le pays surnomme le pays des Hommes integres ?",
+      "options": ["Mali", "Senegal", "Burkina Faso", "Niger"],
+      "correct_answer": 2,
+      "explanation": "Le Burkina Faso est surnomme le pays des Hommes integres."
+      },
+      {
+      "type": "text",
+      "question": "Quelle est la capitale du Burkina Faso ?",
+      "options": ["Bobo-Dioulasso", "Ouagadougou", "Koudougou", "Ouahigouya"],
+      "correct_answer": 1,
+      "explanation": "La capitale du Burkina Faso est Ouagadougou."
+      },
+      {
+      "type": "text",
+      "question": "Quel ancien president du Burkina Faso est connu pour sa revolution ?",
+      "options": ["Thomas Sankara", "Blaise Compaore", "Roch Kabore", "Paul-Henri Damiba"],
+      "correct_answer": 0,
+      "explanation": "Thomas Sankara est celebre pour sa revolution."
+      },
+      {
+      "type": "text",
+      "question": "En quelle annee la Haute-Volta est-elle devenue le Burkina Faso ?",
+      "options": ["1960", "1984", "1990", "1975"],
+      "correct_answer": 1,
+      "explanation": "La Haute-Volta est devenue le Burkina Faso en 1984."
+      },
+      {
+      "type": "text",
+      "question": "Quel est l'un des plats traditionnels tres connu au Burkina Faso ?",
+      "options": ["Riz gras", "To", "Mafe", "Attieke"],
+      "correct_answer": 1,
+      "explanation": "Le To est un plat traditionnel au Burkina Faso."
+      },
+      {
+      "type": "text",
+      "question": "Quel est le principal fleuve traversant le Burkina Faso ?",
+      "options": ["Niger", "Volta", "Sassandra", "Bandama"],
+      "correct_answer": 1,
+      "explanation": "Le fleuve Volta traverse le Burkina Faso."
+      },
+      {
+      "type": "text",
+      "question": "Quel est le sport le plus populaire au Burkina Faso ?",
+      "options": ["Basketball", "Football", "Athletisme", "Rugby"],
+      "correct_answer": 1,
+      "explanation": "Le football est le sport le plus populaire au Burkina Faso."
+      },
+      {
+      "type": "text",
+      "question": "Quel est le nom de la monnaie utilisee au Burkina Faso ?",
+      "options": ["Franc CFA", "Dollar", "Euro", "Naira"],
+      "correct_answer": 0,
+      "explanation": "Le Burkina Faso utilise le Franc CFA."
+      },
+      {
+      "type": "text",
+      "question": "Quel est le desert situe au nord du Burkina Faso ?",
+      "options": ["Sahara", "Kalahari", "Namib", "Gobi"],
+      "correct_answer": 0,
+      "explanation": "Le desert du Sahara est situe au nord du Burkina Faso."
+      },
+      {
+      "type": "text",
+      "question": "Quel est le nom de la danse traditionnelle populaire au Burkina Faso ?",
+      "options": ["Makossa", "Zebola", "Warba", "Kizomba"],
+      "correct_answer": 2,
+      "explanation": "Le Warba est une danse traditionnelle populaire au Burkina Faso."
+      }
+    ],
+    "physique": [
+      {
+        "type": "text",
+        "question": "Quelle est l'unite de la force ?",
+        "options": ["Joule", "Pascal", "Newton", "Watt"],
+        "correct_answer": 2,
+        "explanation": "Force = Newton."
+      },
+      {
+        "type": "text",
+        "question": "Quelle est la vitesse de la lumiere ? (km/s)",
+        "options": ["300 000", "150 000", "100 000", "1 000 000"],
+        "correct_answer": 0,
+        "explanation": "300 000 km/s."
+      },
+      {
+        "type": "text",
+        "question": "L'energie se mesure en...",
+        "options": ["Watt", "Volt", "Joule", "Pascal"],
+        "correct_answer": 2,
+        "explanation": "Energie = Joule."
+      },
+      {
+        "type": "text",
+        "question": "Qu'est-ce qu'une molecule ?",
+        "options": ["Une particule", "Un atome", "Un ensemble d'atomes", "Un electron"],
+        "correct_answer": 2,
+        "explanation": "Une molecule est un ensemble d'atomes."
+      },
+      {
+        "type": "text",
+        "question": "Qu'est-ce qu'un circuit ferme ?",
+        "options": ["Un cable ouvert", "Un circuit avec interrupteur ferme", "Une pile", "Une ampoule"],
+        "correct_answer": 1,
+        "explanation": "Un interrupteur ferme permet le passage du courant."
+      },
+      {
+        "type": "text",
+        "question": "Quelle est la formule de la force ?",
+        "options": ["F = m * a", "F = m / a", "F = m + a", "F = m - a"],
+        "correct_answer": 0,
+        "explanation": "La formule de la force est F = m * a."
+      },
+      {
+        "type": "text",
+        "question": "Quelle est l'unite de la pression ?",
+        "options": ["Newton", "Pascal", "Joule", "Watt"],
+        "correct_answer": 1,
+        "explanation": "La pression se mesure en Pascal."
+      },
+      {
+        "type": "text",
+        "question": "Quelle est la valeur de l'acceleration due a la gravite sur Terre ? (m/s^2)",
+        "options": ["9.8", "10", "8.9", "9.2"],
+        "correct_answer": 0,
+        "explanation": "L'acceleration due a la gravite est de 9.8 m/s^2."
+      },
+      {
+        "type": "text",
+        "question": "Quelle est l'unite de la puissance ?",
+        "options": ["Watt", "Joule", "Newton", "Pascal"],
+        "correct_answer": 0,
+        "explanation": "La puissance se mesure en Watt."
+      },
+      {
+        "type": "text",
+        "question": "Quelle est la formule de l'energie cinetique ?",
+        "options": ["Ec = 1/2 * m * v^2", "Ec = m * v", "Ec = m / v", "Ec = m + v"],
+        "correct_answer": 0,
+        "explanation": "La formule de l'energie cinetique est Ec = 1/2 * m * v^2."
+      }
+    ],
+    "programmation": [
+      {
+      "type": "text",
+      "question": "Quel est le resultat de print(10 // 3) en Python ?",
+      "options": ["3", "3.33", "4", "Erreur"],
+      "correct_answer": 0,
+      "explanation": "L'operateur // effectue une division entiere, donc 10 // 3 = 3."
+      },
+      {
+      "type": "text",
+      "question": "Quelle methode est utilisee pour ajouter un element a une liste en Python ?",
+      "options": ["add()", "append()", "insert()", "push()"],
+      "correct_answer": 1,
+      "explanation": "La methode append() ajoute un element a la fin d'une liste."
+      },
+      {
+      "type": "text",
+      "question": "Quel mot-cle est utilise pour definir une fonction en Python ?",
+      "options": ["function", "def", "func", "lambda"],
+      "correct_answer": 1,
+      "explanation": "Le mot-cle def est utilise pour definir une fonction en Python."
+      },
+      {
+      "type": "text",
+      "question": "Quel est le type de donnees retourne par la fonction input() en Python ?",
+      "options": ["int", "str", "float", "bool"],
+      "correct_answer": 1,
+      "explanation": "La fonction input() retourne toujours une chaine de caracteres (str)."
+      },
+      {
+      "type": "text",
+      "question": "Quel est le resultat de la condition 5 > 3 and 2 < 4 en Python ?",
+      "options": ["True", "False", "Erreur", "None"],
+      "correct_answer": 0,
+      "explanation": "Les deux conditions sont vraies, donc le resultat est True."
+      },
+      {
+      "type": "text",
+      "question": "Quel module est utilise pour generer des nombres aleatoires en Python ?",
+      "options": ["math", "random", "os", "sys"],
+      "correct_answer": 1,
+      "explanation": "Le module random est utilise pour generer des nombres aleatoires."
+      },
+      {
+      "type": "text",
+      "question": "Quelle est la valeur de len([1, 2, 3, 4]) en Python ?",
+      "options": ["3", "4", "5", "Erreur"],
+      "correct_answer": 1,
+      "explanation": "La fonction len() retourne le nombre d'elements dans la liste, ici 4."
+      },
+      {
+      "type": "text",
+      "question": "Quel est le resultat de print('Hello' + ' ' + 'World') en Python ?",
+      "options": ["HelloWorld", "Hello World", "Hello+World", "Erreur"],
+      "correct_answer": 1,
+      "explanation": "L'operateur + concatene les chaines de caracteres avec un espace, donc 'Hello World'."
+      },
+      {
+      "type": "text",
+      "question": "Quel est le resultat de bool([]) en Python ?",
+      "options": ["True", "False", "Erreur", "None"],
+      "correct_answer": 1,
+      "explanation": "Une liste vide est evaluee comme False en Python."
+      },
+      {
+      "type": "text",
+      "question": "Quel est le mot-cle utilise pour gerer les exceptions en Python ?",
+      "options": ["try", "catch", "except", "finally"],
+      "correct_answer": 2,
+      "explanation": "Le mot-cle except est utilise pour gerer les exceptions en Python."
+      }
+    ]
+  }

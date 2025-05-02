@@ -1,0 +1,67 @@
+[
+    {
+        "player": "cedric",
+        "level": "easy",
+        "score": 20
+    },
+    {
+        "player": "cedric",
+        "level": "hard",
+        "score": 0
+    },
+    {
+        "player": "cedric",
+        "level": "medium",
+        "score": 40
+    },
+    {
+        "player": "cedric",
+        "level": "easy",
+        "score": 30
+    },
+    {
+        "player": "cedric",
+        "level": "medium",
+        "score": 40
+    },
+    {
+        "player": "threvis",
+        "level": "medium",
+        "score": 100
+    },
+    {
+        "player": "viscott",
+        "level": "easy",
+        "score": 5
+    },
+    {
+        "player": "threvis",
+        "level": "easy",
+        "score": 9
+    },
+    {
+        "player": "threvis",
+        "level": "easy",
+        "score": 10
+    },
+    {
+        "player": "motad",
+        "level": "easy",
+        "score": 8
+    },
+    {
+        "player": "irvane",
+        "level": "hard",
+        "score": 7
+    },
+    {
+        "player": "irvane",
+        "level": "hard",
+        "score": 6
+    },
+    {
+        "player": "threvis",
+        "level": "easy",
+        "score": 10
+    }
+]

@@ -1,0 +1,38 @@
+{
+  "maths": [
+    {"type": "text", "question": "Combien font 2 + 2 ?", "options": ["3", "4", "5", "6"], "correct_answer": 1, "explanation": "2 + 2 = 4."},
+    {"type": "text", "question": "Quelle est la moitie de 10 ?", "options": ["2", "4", "5", "6"], "correct_answer": 2, "explanation": "La moitie de 10 est 5."},
+    {"type": "text", "question": "Quel est le chiffre juste apres 4 ?", "options": ["3", "5", "6", "2"], "correct_answer": 1, "explanation": "Apres 4, c'est 5."},
+    {"type": "text", "question": "Quel est le resultat de 3 x 3 ?", "options": ["6", "7", "9", "10"], "correct_answer": 2, "explanation": "3 x 3 = 9."},
+    {"type": "text", "question": "Quel nombre est pair ?", "options": ["3", "5", "7", "8"], "correct_answer": 3, "explanation": "8 est pair."},
+    {"type": "text", "question": "Combien font 5 - 3 ?", "options": ["1", "2", "3", "4"], "correct_answer": 1, "explanation": "5 - 3 = 2."},
+    {"type": "text", "question": "Quel est le double de 6 ?", "options": ["10", "11", "12", "13"], "correct_answer": 2, "explanation": "Le double de 6 est 12."},
+    {"type": "text", "question": "Combien font 10 / 2 ?", "options": ["2", "3", "4", "5"], "correct_answer": 3, "explanation": "10 / 2 = 5."},
+    {"type": "text", "question": "Quel est le carre de 3 ?", "options": ["6", "9", "12", "15"], "correct_answer": 1, "explanation": "Le carre de 3 est 9."},
+    {"type": "text", "question": "Quel est le resultat de 7 + 8 ?", "options": ["14", "15", "16", "17"], "correct_answer": 1, "explanation": "7 + 8 = 15."}
+  ],
+  "histoire": [
+    {"type": "text", "question": "Qui etait Napoleon ?", "options": ["Empereur", "Roi", "Peintre", "Scientifique"], "correct_answer": 0, "explanation": "Napoleon etait empereur."},
+    {"type": "text", "question": "Quelle est la capitale de la France ?", "options": ["Lyon", "Paris", "Marseille", "Nice"], "correct_answer": 1, "explanation": "Paris est la capitale."},
+    {"type": "text", "question": "Quand a eu lieu la Revolution francaise ?", "options": ["1789", "1815", "1700", "1900"], "correct_answer": 0, "explanation": "1789."},
+    {"type": "text", "question": "Quel pays a construit la Grande Muraille ?", "options": ["Japon", "Inde", "Chine", "Coree"], "correct_answer": 2, "explanation": "C'est la Chine."},
+    {"type": "text", "question": "Quel monument est a Rome ?", "options": ["Big Ben", "Tour Eiffel", "Colisee", "Statue de la Liberte"], "correct_answer": 2, "explanation": "Le Colisee."},
+    {"type": "text", "question": "Qui a decouvert l'Amerique ?", "options": ["Christophe Colomb", "Vasco de Gama", "Magellan", "Marco Polo"], "correct_answer": 0, "explanation": "Christophe Colomb a decouvert l'Amerique."},
+    {"type": "text", "question": "Quel roi etait surnomme le Roi Soleil ?", "options": ["Louis XIV", "Louis XVI", "Henri IV", "Charles X"], "correct_answer": 0, "explanation": "Louis XIV etait le Roi Soleil."},
+    {"type": "text", "question": "Quel pays a ete dirige par Adolf Hitler ?", "options": ["France", "Allemagne", "Italie", "Espagne"], "correct_answer": 1, "explanation": "Adolf Hitler a dirige l'Allemagne."},
+    {"type": "text", "question": "Quel evenement a marque la fin de la Seconde Guerre mondiale ?", "options": ["Chute de Berlin", "Debarquement en Normandie", "Hiroshima et Nagasaki", "Traite de Versailles"], "correct_answer": 2, "explanation": "Hiroshima et Nagasaki ont marque la fin de la guerre."},
+    {"type": "text", "question": "Qui a ecrit l'Iliade et l'Odysee ?", "options": ["Homer", "Virgile", "Platon", "Aristote"], "correct_answer": 0, "explanation": "Homer a ecrit l'Iliade et l'Odysee."}
+  ],
+  "programmation": [
+    {"type": "text", "question": "Que signifie HTML ?", "options": ["HyperText Markup Language", "HighText Machine Language", "Home Tool Markup Language", "Aucun"], "correct_answer": 0, "explanation": "HTML signifie HyperText Markup Language."},
+    {"type": "text", "question": "Quelle langue est utilisee pour styliser les pages web ?", "options": ["HTML", "CSS", "Python", "PHP"], "correct_answer": 1, "explanation": "CSS est utilise pour le style."},
+    {"type": "text", "question": "Quelle langue utilise 'print()' pour afficher une sortie ?", "options": ["Python", "HTML", "Java", "C"], "correct_answer": 0, "explanation": "print() est utilise en Python."},
+    {"type": "text", "question": "Quel fichier est execute en premier sur un site web ?", "options": ["index.html", "style.css", "main.py", "script.js"], "correct_answer": 0, "explanation": "index.html est la page d'accueil."},
+    {"type": "text", "question": "Quelle est une langue de requete pour les bases de donnees ?", "options": ["SQL", "HTML", "CSS", "XML"], "correct_answer": 0, "explanation": "SQL est utilise pour les bases de donnees."},
+    {"type": "text", "question": "Que signifie CSS ?", "options": ["Cascading Style Sheets", "Creative Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"], "correct_answer": 0, "explanation": "CSS signifie Cascading Style Sheets."},
+    {"type": "text", "question": "Quelle langue est principalement utilisee pour le developpement web ?", "options": ["JavaScript", "C++", "Python", "Ruby"], "correct_answer": 0, "explanation": "JavaScript est largement utilise pour le developpement web."},
+    {"type": "text", "question": "Que signifie JSON ?", "options": ["JavaScript Object Notation", "Java Syntax Object Notation", "JavaScript Online Notation", "Aucun"], "correct_answer": 0, "explanation": "JSON signifie JavaScript Object Notation."},
+    {"type": "text", "question": "Quelle langue est utilisee pour le developpement backend ?", "options": ["Node.js", "HTML", "CSS", "Photoshop"], "correct_answer": 0, "explanation": "Node.js est utilise pour le developpement backend."},
+    {"type": "text", "question": "Quelle balise est utilisee pour creer un lien hypertexte en HTML ?", "options": ["<a>", "<link>", "<href>", "<url>"], "correct_answer": 0, "explanation": "La balise <a> est utilisee pour creer des liens hypertextes en HTML."}
+  ]
+}

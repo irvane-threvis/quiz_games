@@ -1,0 +1,39 @@
+{
+    
+    "histoire": [
+      {"type": "text", "question": "Quel est le plus grand desert d'Afrique ?", "options": ["Sahara", "Kalahari", "Namib", "Gobi"], "correct_answer": 0, "explanation": "Le Sahara est le plus grand desert d'Afrique."},
+      {"type": "text", "question": "Quel fleuve est le plus long d'Afrique ?", "options": ["Nil", "Congo", "Niger", "Zambeze"], "correct_answer": 0, "explanation": "Le Nil est le plus long fleuve d'Afrique."},
+      {"type": "text", "question": "Quel pays africain est surnomme le pays des mille collines ?", "options": ["Rwanda", "Kenya", "Ethiopie", "Afrique du Sud"], "correct_answer": 0, "explanation": "Le Rwanda est surnomme le pays des mille collines."},
+      {"type": "text", "question": "Quelle est la capitale de l'Egypte ?", "options": ["Le Caire", "Alexandrie", "Louxor", "Assouan"], "correct_answer": 0, "explanation": "Le Caire est la capitale de l'Egypte."},
+      {"type": "text", "question": "Quel est le principal exportateur de cacao en Afrique ?", "options": ["Cote d'Ivoire", "Ghana", "Nigeria", "Cameroun"], "correct_answer": 0, "explanation": "La Cote d'Ivoire est le principal exportateur de cacao en Afrique."},
+      {"type": "text", "question": "Quel est le deuxième plus grand désert d'Afrique ?", "options": ["Kalahari", "Sahara", "Namib", "Gobi"], "correct_answer": 0, "explanation": "Le Kalahari est le deuxième plus grand désert d'Afrique."},
+      {"type": "text", "question": "Quel lac est le plus grand d'Afrique ?", "options": ["Lac Victoria", "Lac Tanganyika", "Lac Malawi", "Lac Tchad"], "correct_answer": 0, "explanation": "Le lac Victoria est le plus grand lac d'Afrique."},
+      {"type": "text", "question": "Quel pays africain est connu pour ses pyramides antiques ?", "options": ["Egypte", "Soudan", "Ethiopie", "Libye"], "correct_answer": 0, "explanation": "L'Egypte est connue pour ses pyramides antiques."},
+      {"type": "text", "question": "Quel est le plus grand pays d'Afrique par superficie ?", "options": ["Algerie", "Soudan", "Congo", "Libye"], "correct_answer": 0, "explanation": "L'Algérie est le plus grand pays d'Afrique par superficie."},
+      {"type": "text", "question": "Quel est le plus haut sommet d'Afrique ?", "options": ["Kilimandjaro", "Mont Kenya", "Rwenzori", "Drakensberg"], "correct_answer": 0, "explanation": "Le Kilimandjaro est le plus haut sommet d'Afrique."}
+    ],
+    "maths": [
+      {"type": "text", "question": "Quel est le PGCD de 48 et 18 ?", "options": ["6", "8", "9", "12"], "correct_answer": 0, "explanation": "Le PGCD est 6."},
+      {"type": "text", "question": "Resoudre 2x + 3 = 11. x = ?", "options": ["4", "3", "5", "6"], "correct_answer": 0, "explanation": "x = 4."},
+      {"type": "text", "question": "Combien de cotes a un dodecagone ?", "options": ["10", "12", "14", "16"], "correct_answer": 1, "explanation": "Dodecagone = 12 cotes."},
+      {"type": "text", "question": "Quelle est la derivee de x^2 ?", "options": ["x", "2x", "x^2", "x/2"], "correct_answer": 1, "explanation": "La derivee de x^2 est 2x."},
+      {"type": "text", "question": "Quelle est l'integrale de 1/x ?", "options": ["ln(x)", "1", "x", "x^2"], "correct_answer": 0, "explanation": "L'integrale de 1/x est ln(x)."},
+      {"type": "text", "question": "Quel est le resultat de 5! (factorielle de 5) ?", "options": ["120", "60", "24", "720"], "correct_answer": 0, "explanation": "5! = 5 x 4 x 3 x 2 x 1 = 120."},
+      {"type": "text", "question": "Quelle est la somme des angles d'un triangle ?", "options": ["180", "360", "90", "270"], "correct_answer": 0, "explanation": "La somme des angles d'un triangle est 180 degres."},
+      {"type": "text", "question": "Quel est le carre de 15 ?", "options": ["225", "150", "30", "200"], "correct_answer": 0, "explanation": "15^2 = 225."},
+      {"type": "text", "question": "Combien font 2^5 ?", "options": ["32", "16", "64", "25"], "correct_answer": 0, "explanation": "2^5 = 32."},
+      {"type": "text", "question": "Quelle est la racine carree de 144 ?", "options": ["12", "14", "10", "16"], "correct_answer": 0, "explanation": "La racine carree de 144 est 12."}
+    ],
+    "physique": [
+      {"type": "text", "question": "Quel est le symbole chimique de l'eau ?", "options": ["O2", "CO2", "H2O", "NaCl"], "correct_answer": 2, "explanation": "Eau = H2O."},
+      {"type": "text", "question": "Quelle loi definit F = ma ?", "options": ["1ere loi de Newton", "2e loi de Newton", "Loi d'Archimede", "Loi d'Ohm"], "correct_answer": 1, "explanation": "2e loi de Newton."},
+      {"type": "text", "question": "Quelle est l'unite de la resistance electrique ?", "options": ["Ohm", "Ampere", "Volt", "Joule"], "correct_answer": 0, "explanation": "Resistance = Ohm."},
+      {"type": "text", "question": "Quel est le nom du boson decouvert au CERN ?", "options": ["Boson Z", "Boson de Higgs", "Boson de Fermi", "Photon"], "correct_answer": 1, "explanation": "Boson de Higgs."},
+      {"type": "text", "question": "Quel appareil mesure l'intensite electrique ?", "options": ["Voltmetre", "Amperemetre", "Ohmmetre", "Thermometre"], "correct_answer": 1, "explanation": "L'amperemetre mesure l'intensite."},
+      {"type": "text", "question": "Quelle est la vitesse de la lumiere dans le vide ?", "options": ["300 000 km/s", "150 000 km/s", "3 000 km/s", "30 000 km/s"], "correct_answer": 0, "explanation": "La vitesse de la lumiere dans le vide est de 300 000 km/s."},
+      {"type": "text", "question": "Quel est le principe de la conservation de l'energie ?", "options": ["L'energie ne peut etre creee ni detruite", "L'energie est infinie", "L'energie est toujours constante", "L'energie est illimitee"], "correct_answer": 0, "explanation": "L'energie ne peut etre creee ni detruite, seulement transformee."},
+      {"type": "text", "question": "Quel est l'unite de mesure de la force ?", "options": ["Newton", "Joule", "Watt", "Pascal"], "correct_answer": 0, "explanation": "La force est mesuree en Newton."},
+      {"type": "text", "question": "Quel phenomene explique pourquoi un objet immerge semble plus leger ?", "options": ["Loi d'Archimede", "Loi de Newton", "Loi de Coulomb", "Loi de Bernoulli"], "correct_answer": 0, "explanation": "La loi d'Archimede explique ce phenomene."},
+      {"type": "text", "question": "Quel est le nom de la particule elementaire de charge negative ?", "options": ["Proton", "Neutron", "Electron", "Photon"], "correct_answer": 2, "explanation": "L'electron est une particule elementaire de charge negative."}
+    ]
+}
